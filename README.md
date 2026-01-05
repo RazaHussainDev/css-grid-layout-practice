@@ -55,7 +55,7 @@ css-grid-layout-practice/
 ```mermaid
 flowchart LR
     User((User))
-    HTML[HTML File (index.html)]
-    CSS[CSS File (style.css)]
+    HTML["HTML File (index.html)"]
+    CSS["CSS File (style.css)"]
     User --> HTML --> CSS
 ```
